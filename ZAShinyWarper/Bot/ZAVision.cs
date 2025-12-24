@@ -9,9 +9,9 @@ namespace ZAShinyWarper
     internal static class ZAVision
     {
         // [[[main+5F0E250]+120]+168]
-        public static IReadOnlyList<long> ShinyStashPointer { get; } = [0x5F0E250, 0x120, 0x168]; // +00
+        public static IReadOnlyList<long> ShinyStashPointer { get; } = [0x6105710, 0x120, 0x168]; // +00
         // [[[main+41EF340]+248]+00]+138]
-        public static IReadOnlyList<long> PlayerPositionPointer { get; } = [0x41EF340, 0x248, 0x00, 0x138]; // +90
+        public static IReadOnlyList<long> PlayerPositionPointer { get; } = [0x47D21A0, 0x248, 0x00, 0x138]; // +90
 
 
         //[[main+4202C40]+D8]
